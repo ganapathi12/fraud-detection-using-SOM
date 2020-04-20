@@ -1,0 +1,2 @@
+# fraud-detection-using-SOM
+this model is based on self organizing maps, the model is trained with the list of customers in the bank who had applied for credit card and this dataset is trained on som model and a map is formed from that map you need to select which has the most MID(mean inter neuron distance) and concatenate the mappings and finally the result is obtained from mappings, the dataset is obtained from UCI machine learning library.
